@@ -1,0 +1,10 @@
+.countries-list {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+  }
+  
+  .country {
+    margin: 10px;
+    text-align: center;
+  }
